@@ -1,1 +1,0 @@
-<Playlist Version="1.0"><Add Test="ProductAPI.Tests.UnitTest1.TestMethod_DeleteAllProducts" /><Add Test="ProductAPI.Tests.UnitTest1.TestMethod_InsertProducts" /><Add Test="ProductAPI.Tests.UnitTest1.TestMethod_GetUsingFilter" /><Add Test="ProductAPI.Tests.UnitTest1.TestMethod_ProductsTesting" /></Playlist>
